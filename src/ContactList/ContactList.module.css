@@ -1,0 +1,16 @@
+.contactList {
+  list-style: none;
+}
+.contactList li {
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+.contactList li button {
+  margin-left: 20px;
+  border: none;
+  border-radius: 3px;
+  color: #ffffff;
+  outline: 2px solid rgb(13, 47, 58);
+  background-color: rgb(77, 117, 143);
+}

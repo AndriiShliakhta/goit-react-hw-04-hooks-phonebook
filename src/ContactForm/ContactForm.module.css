@@ -1,0 +1,14 @@
+.form label {
+  display: flex;
+  justify-content: space-between;
+}
+.form input {
+  margin-left: 20px;
+}
+.submitButton {
+  border: none;
+  border-radius: 3px;
+  color: #ffffff;
+  outline: 2px solid rgb(13, 47, 58);
+  background-color: rgb(77, 117, 143);
+}
